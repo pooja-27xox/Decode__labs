@@ -70,6 +70,50 @@ Key Observations
 Conclusion
 This project helped me understand the importance of Exploratory Data Analysis in the data analytics process. Through statistical analysis and visualization techniques, I was able to identify patterns, trends, and relationships within the dataset. The experience improved my practical skills in Python, data analysis, and data visualization.
 
+
+# SQL Data Analysis Using Superstore Dataset
+## Project Overview
+
+This project was completed as part of my Data Analytics Internship at DecodeLabs. The objective of this project was to analyze sales data using SQL queries and extract meaningful business insights from the Superstore dataset.
+
+The project demonstrates the use of SQL operations such as filtering, grouping, sorting, and aggregation to understand sales performance and customer behavior.
+
+Tools Used
+* Python
+* Pandas
+* SQLite (pandasql)
+* Google Colab
+
+Dataset
+The Superstore dataset contains information related to customer orders, sales, product categories, shipping details, and customer segments.
+
+SQL Operations Performed
+* SELECT
+* WHERE
+* GROUP BY
+* ORDER BY
+* COUNT()
+* SUM()
+* AVG()
+
+Analysis Performed
+* Displayed sample records from the dataset.
+* Counted the total number of records.
+* Analyzed customer segments using GROUP BY.
+* Calculated average sales by segment using AVG().
+* Calculated total sales by category using SUM().
+* Identified top-performing sales records.
+* Filtered high-value sales transactions using WHERE conditions.
+
+Key Findings
+* Different customer segments contribute differently to overall sales.
+* Some product categories generate higher sales than others.
+* High-value orders contribute significantly to business revenue.
+* SQL queries make it easier to analyze and summarize large datasets efficiently.
+
+Conclusion
+This project helped me improve my understanding of SQL and its application in data analysis. By using SQL queries, I was able to extract useful insights from the dataset and understand how data can support business decision-making.
+
 ## Author
 
 Pooja
